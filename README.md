@@ -1,3 +1,7 @@
+# Notice
+
+This project has moved repositories and is now at https://github.com/cabal95/RockDevBooster.
+
 # RockLauncher
 
 <img src="./RockLauncher/resources/RockLauncher.svg" title="Rock Launcher" alt="Rock Launcher" width="200px" align="right">
